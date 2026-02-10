@@ -12,7 +12,7 @@
 
 This project demonstrates an **end-to-end data analytics pipeline** using **AWS, Snowflake, and Power BI Fabric**. The goal is to ingest a CSV dataset stored in AWS, integrate it with Snowflake using secure role-based access, perform data transformation and categorization, and finally build interactive analytical reports in Power BI, which are published to **Power BI Fabric**.
 
-The project focuses on analyzing **Rainfall, Temperature, and Humidity** trends and their relationship with agricultural factors such as crop type, soil type, irrigation, and yields.
+The project focuses on analyzing **Rainfall, Temperature,Yield and Humidity** 
 
 ---
 
