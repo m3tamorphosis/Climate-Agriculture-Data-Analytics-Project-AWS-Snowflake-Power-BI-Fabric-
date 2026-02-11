@@ -12,6 +12,22 @@
 
 This project demonstrates an **end-to-end data analytics pipeline** using **AWS, Snowflake, and Power BI Fabric**. The goal is to ingest a CSV dataset stored in AWS, integrate it with Snowflake using secure role-based access, perform data transformation and categorization, and finally build interactive analytical reports in Power BI, which are published to **Power BI Fabric**.
 
+<img width="1467" height="803" alt="{2DCCE12F-A21B-4E09-A807-79C388235261}" src="https://github.com/user-attachments/assets/9273c850-672c-4075-b4ca-dd998906a08e" />
+<img width="1466" height="806" alt="{512C1C37-E13C-4EE6-B161-4942C7198D55}" src="https://github.com/user-attachments/assets/e544fa1a-13b4-475f-8c7f-695105a1d965" />
+<img width="1464" height="791" alt="{7AB5BA26-7FC3-4547-BE01-96FDA0F0707A}" src="https://github.com/user-attachments/assets/f284402f-756e-43ba-8d03-019ac8106153" />
+<img width="1463" height="788" alt="{FA2711DA-8453-429D-A46D-3BAFFCD21A0F}" src="https://github.com/user-attachments/assets/7460bf2a-30c2-437f-9af2-0598be96eddf" />
+
+## AWS S3 Bucket & AWS IAM ROLE Overview 
+
+<img width="1920" height="992" alt="{F7F7966F-834E-4865-AAEA-BF804DC0D570}" src="https://github.com/user-attachments/assets/0d70a6aa-397a-493e-acd1-c48c4e83a6ad" />
+<img width="1920" height="991" alt="{A4895AF7-B793-4DB3-B7D8-A57234F547D2}" src="https://github.com/user-attachments/assets/25b6a109-e916-4d55-a02c-bddbbaac6e8b" />
+<img width="1920" height="990" alt="{5D958644-38AD-4617-905F-C8128394E516}" src="https://github.com/user-attachments/assets/55a02b74-86ab-458c-b69a-c034cc42574d" />
+
+## Snowflakes Overview
+<img width="1918" height="994" alt="{D13DCB02-04F4-4BE2-9513-2CC9191BA004}" src="https://github.com/user-attachments/assets/7765e220-549b-46ff-b365-b98f056dca62" />
+
+
+
 The project focuses on analyzing **Rainfall, Temperature,Yield and Humidity** 
 
 ---
